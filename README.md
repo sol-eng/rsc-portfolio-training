@@ -38,7 +38,7 @@ Full Solution: https://gist.github.com/slopp/cc84e206832d9daf014feb603eeacf4d)
 
 ### Shiny Apps on RStudio Connect
 
-Now that we are happy with the dashboard, we want to deploy it to RStudio Connect. To do so, first visit: http://ec2-54-202-230-54.us-west-2.compute.amazonaws.com/ and register for an account by clicking the "Sign Up" button in the upper right hand corner and following the instructions. Then, open `03_shiny_dashboard.Rmd` and click the blue publish icon in the upper right hand corner of the RStudio source pane. Select "Publish Just This Document". You'll be prompted to link RStudio to the account you created on RStudio Connect, enter the [URL for the server](http://ec2-54-202-230-54.us-west-2.compute.amazonaws.com/). Once connected, you'll be prompted to publish the application. **Please title the application as: yourFirstName_app**.
+Now that we are happy with the dashboard, we want to deploy it to RStudio Connect. To do so, first visit: https://beta.rstudioconnect.com/ and register for an account by clicking the "Sign Up" button in the upper right hand corner and following the instructions. Then, open `03_shiny_dashboard.Rmd` and click the blue publish icon in the upper right hand corner of the RStudio source pane. Select "Publish Just This Document". You'll be prompted to link RStudio to the account you created on RStudio Connect, enter the [URL for the server](http://ec2-54-202-230-54.us-west-2.compute.amazonaws.com/). Once connected, you'll be prompted to publish the application. **Please title the application as: yourFirstName_app**.
 
 Once published, take some time to play with the RStudio Connect interface.
 
